@@ -49,8 +49,8 @@ Vision-Centric BEV Perception: A Survey
 
 #### Benchmark Results
 
-
 ![](BEV_Survey/MLP-based-result.png)
+
 ##### Transformer-based
 - BEVFormer (ECCV'22) [[paper]](https://arxiv.org/pdf/2203.17270v1.pdf) [[project page]](https://github.com/zhiqi-li/BEVFormer)
 - CVT (CVPR'22) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf) [[project page]](https://github.com/bradyz/)
