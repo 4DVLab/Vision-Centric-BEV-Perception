@@ -14,7 +14,7 @@ Vision-Centric BEV Perception: A Survey
 [comment]: <> (<p align="center"> <img src="./Datasets_bev.png" width="95%"> </p>)
 ### (2) GEOMETRY BASED PV2BEV
 #### Public Papers
-- BridgeGAN (3DV'18) [[paper]](https://arxiv.org/pdf/1808.00327.pdf)
+- BridgeGAN (3DV'18) [[paper]](https://arxiv.org/pdf/1808.00327.pdf)[[project page]](https://github.com/xinge008/BridgeGAN)
 - 3D-LaneNet (ICCV'19) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Garnett_3D-LaneNet_End-to-End_3D_Multiple_Lane_Detection_ICCV_2019_paper.pdf)
 - TrafCam3D (IROS'21) [[paper]](http://export.arxiv.org/pdf/2103.15293.pdf)
 - PartNet (WACV'21) [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf) 
