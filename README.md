@@ -44,7 +44,7 @@ Vision-Centric BEV Perception: A Survey
 - STA-ST (ICRA'21) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561169) 
 ####  Chronological overview of MLP-based PV to BEV methods.
 
-![](BEV_Survey/MLP-based-overview.PNG)
+![](BEV_Survey/MLP-based-overview1.png)
 
 #### Benchmark Results
 
