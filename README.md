@@ -6,7 +6,6 @@ Vision-Centric BEV Perception: A Survey
 ## Introduction
 
 
-
 ### (1) Datasets
 ![](BEV_Survey/Datasets_bev.png)
 
