@@ -81,8 +81,6 @@ Vision-Centric BEV Perception: A Survey
 
 
 
-
-
 ### Citation
 
 
