@@ -129,6 +129,16 @@ Multi-Modality Fusion:
 ![](BEV_Survey/multi-modal-results.png)
 
 Temporal Fusion:
+- BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection (Arxiv'22) [[paper]](https://arxiv.org/pdf/2203.17054) [[project page]](https://github.com/HuangJunJie2017/BEVDet)
+- Image2Map: Translating Images into Maps (ICRA'22) [[paper]](https://arxiv.org/pdf/2110.00966.pdf) [[project page]](https://github.com/avishkarsaha/translating-images-into-maps)
+- FIERY: Future Instance Prediction in Bird’s-Eye View from Surround Monocular Cameras (ICCV'21) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_FIERY_Future_Instance_Prediction_in_Birds-Eye_View_From_Surround_Monocular_ICCV_2021_paper.pdf) [[project page]](https://github.com/wayveai/fiery)
+- Ego3RT: Learning Ego 3D Representation as Ray Tracing (ECCV'22) [[paper]](https://arxiv.org/pdf/2206.04042.pdf) [[project page]](https://github.com/fudan-zvg/Ego3RT)
+- PolarFormer: Multi-camera 3D Object Detection with Polar Transformers (Arxiv'22)[[paper]](https://arxiv.org/pdf/2206.15398) [[project page]](https://github.com/fudan-zvg/PolarFormer)
+- BEVStitch: Understanding Bird’s-Eye View of Road Semantics using an Onboard Camera (ICRA'22) [[paper]](https://arxiv.org/pdf/2012.03040.pdf) [[project page]](https://github.com/ybarancan/BEV_feat_stitch)
+- PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Arxiv'22) [[paper]](https://arxiv.org/pdf/2206.01256) [[project page]](https://github.com/megvii-research/PETR)
+- BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers (ECCV'22) [[paper]](https://arxiv.org/pdf/2203.17270v1.pdf) [[project page]](https://github.com/zhiqi-li/BEVFormer)
+- UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird’s-Eye-View (Arxiv'22) [[paper]](https://arxiv.org/pdf/2207.08536) 
+- DfM: Monocular 3D Object Detection with Depth from Motion (ECCV'22) [[paper]](https://arxiv.org/abs/2207.12988.pdf) [[project page]](https://github.com/Tai-Wang/Depth-from-Motion)
 
 [comment]: <> (<p align="center"> <img src="./temporal-results.png" width="95%"> </p>)
 ![](BEV_Survey/temporal-results.png)
