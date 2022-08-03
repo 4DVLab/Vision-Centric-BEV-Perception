@@ -2,14 +2,14 @@
 Vision-Centric BEV Perception: A Survey
 
 [comment]: <> (<p align="center"> <img src="./taxonomy_bev.png" width="95%"> </p>)
-![](taxonomy_bev.png)
+![](BEV_Survey/taxonomy_bev.png)
 
 ## Introduction
 
 
 
 ### (1) Datasets
-![](Datasets_bev.png)
+![](BEV_Survey/Datasets_bev.png)
 
 [comment]: <> (<p align="center"> <img src="./Datasets_bev.png" width="95%"> </p>)
 ### (2) GEOMETRY BASED PV2BEV
@@ -20,7 +20,7 @@ Vision-Centric BEV Perception: A Survey
 - PartNet (WACV'21) [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf) 
 - ScanObjectNN (ICCV'21) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Stacked_Homography_Transformations_for_Multi-View_Pedestrian_Detection_ICCV_2021_paper.pdf) 
 #### Chronological overview of homograph-based PV to BEV methods.
-![](homo-based-overview.PNG)
+![](BEV_Survey/homo-based-overview.PNG)
 
 [comment]: <> (<p align="center"> <img src="./homo-based-overview.PNG" width="95%"> </p>)
 ### (3) Depth based PV2BEV
@@ -34,12 +34,12 @@ Vision-Centric BEV Perception: A Survey
 #### Chronological overview of depth-based PV to BEV methods.
 
 [comment]: <> (<p align="center"> <img src="./depth-based-overview.png" width="95%"> </p>)
-![](depth-based-overview.png)
+![](BEV_Survey/depth-based-overview.png)
 
 #### Benchmark Results
 
 [comment]: <> (<p align="center"> <img src="./depth-based%20results.png" width="95%"> </p>)
-![](depth-based%20results.png)
+![](BEV_Survey/depth-based%20results.png)
 
 ### (4) NETWORK BASED PV2BEV
 #### Public Ppaers
@@ -51,7 +51,7 @@ Vision-Centric BEV Perception: A Survey
 ####  Chronological overview of MLP-based PV to BEV methods.
 
 [comment]: <> (<p align="center"> <img src="./MLP-based-overview.png" width="95%"> </p>)
-![](MLP-based-overview.png)
+![](BEV_Survey/MLP-based-overview1.png)
 
 #### Benchmark Results
 
@@ -65,11 +65,11 @@ Vision-Centric BEV Perception: A Survey
 #### Chronological overview of transformer-based PV to BEV methods.
 
 [comment]: <> (<p align="center"> <img src="./transformer-based-overview.png" width="95%"> </p>)
-![](transformer-based-overview.png)
+![](BEV_Survey/transformer-based-overview.png)
 
 #### Benchmark Results
-![](transformer-based-results.png)
-![](transformer-based-results1.png)
+![](BEV_Survey/transformer-based-results.png)
+![](BEV_Survey/transformer-based-results1.png)
 
 [comment]: <> (<p align="center"> <img src="./transformer-based-results.png" width="95%"> </p>)
 [comment]: <> (<p align="center"> <img src="./transformer-based-results1.png" width="95%"> </p>)
@@ -84,7 +84,7 @@ Vision-Centric BEV Perception: A Survey
 - MVP (NIPS'21) [[paper]](https://arxiv.org/pdf/2111.06881.pdf) [[project page]](https://tianweiy.github.io/mvp/)
 - AutoAlignV2 (ECCV'22) [[paper]](https://arxiv.org/pdf/2207.10316v1.pdf) [[project page]](https://github.com/zehuichen123/AutoAlignV2)
 #### Benchmark Results
-![](multi-modal-result.png)
+![](BEV_Survey/multi-modal-result.png)
 
 [comment]: <> (<p align="center"> <img src="./multi-modal-result.png" width="95%"> </p>)
 
