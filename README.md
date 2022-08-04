@@ -185,8 +185,9 @@ Multi-agent Fusion:
 If you find our work useful in your research, please consider citing:
 
 
-## Updates
+## Contributing
 
+Please feel free to submit a pull request to add the new paper or related project page.
 
 
 ## Related Repos
