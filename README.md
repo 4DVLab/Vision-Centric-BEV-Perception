@@ -135,7 +135,7 @@ Benchmark Results:
 - Ego3RT: Learning Ego 3D Representation as Ray Tracing (ECCV'22) [[paper]](https://arxiv.org/pdf/2206.04042.pdf) [[project page]](https://github.com/fudan-zvg/Ego3RT)
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Arxiv'22) [[paper]](https://arxiv.org/pdf/2206.01256) [[project page]](https://github.com/megvii-research/PETR)
 - PolarFormer: Multi-camera 3D Object Detection with Polar Transformers (Arxiv'22)[[paper]](https://arxiv.org/pdf/2206.15398) [[project page]](https://github.com/fudan-zvg/PolarFormer)
-
+- Putting People in their Place: Monocular Regression of 3D People in Depth (CVPR'22) [[Code]](https://github.com/Arthur151/ROMP) [[Project Page]](https://arthur151.github.io/BEV/BEV.html) [[Paper]](https://arxiv.org/abs/2112.08274) [[Video]](https://youtu.be/Q62fj_6AxRI) [[RH Dataset]](https://github.com/Arthur151/Relative_Human)
 
 [comment]: <> (<p align="center"> <img src="./multi-task-results.png" width="95%"> </p>)
 ![](BEV_Survey/multi-task-results.png)
