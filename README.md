@@ -184,6 +184,13 @@ Multi-agent Fusion:
 
 If you find our work useful in your research, please consider citing:
 
+```tex
+@inproceedings{Ma2022VisionCentricBP,
+  title={Vision-Centric BEV Perception: A Survey},
+  author={Yuexin Ma and Tai Wang and Xuyang Bai and Huitong Yang and Yuenan Hou and Yaming Wang and Y. Qiao and Ruigang Yang and Dinesh Manocha and Xinge Zhu},
+  year={2022}
+}
+```
 
 ## Contributing
 
