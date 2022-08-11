@@ -52,6 +52,7 @@ Public Papers:
 - BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection (Arxiv'22) [[paper]](https://arxiv.org/pdf/2203.17054) [[project page]](https://github.com/HuangJunJie2017/BEVDet)
 - BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving (Arxiv'22) [[paper]](https://arxiv.org/pdf/2205.09743) [[project page]](https://github.com/zhangyp15/BEVerse)
 - MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones (Arxiv'22) [[paper]](https://arxiv.org/pdf/2207.12716) [[project page]](https://github.com/Tai-Wang/Depth-from-Motion)
+- Putting People in their Place: Monocular Regression of 3D People in Depth (CVPR'22) [[Code]](https://github.com/Arthur151/ROMP) [[Project Page]](https://arthur151.github.io/BEV/BEV.html) [[Paper]](https://arxiv.org/abs/2112.08274) [[Video]](https://youtu.be/Q62fj_6AxRI) [[RH Dataset]](https://github.com/Arthur151/Relative_Human)
 
 Chronological Overview:
 
