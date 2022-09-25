@@ -154,6 +154,7 @@ Multi-Modality Fusion:
 - AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection (IJCAI'22) [[paper]](https://arxiv.org/pdf/2201.06493) [[project page]](https://github.com/zehuichen123/AutoAlignV2)
 - AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection (ECCV'22) [[paper]](https://arxiv.org/pdf/2207.10316v1.pdf) [[project page]](https://github.com/zehuichen123/AutoAlignV2)
 - CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection  (WACV'21) [[paper]](https://arxiv.org/pdf]/2011.04841) [[project page]](https://github.com/mrnabati/CenterFusion)
+- MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (Arxiv'22) [[paper]](https://arxiv.org/pdf/2209.03102.pdf)[[project page]](https://github.com/SxJyJay/MSMDFusion)
 
 [comment]: <> (<p align="center"> <img src="./multi-modal-results.png" width="95%"> </p>)
 ![](BEV_Survey/multi-modal-results.png)
