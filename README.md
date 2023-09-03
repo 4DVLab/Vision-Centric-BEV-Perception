@@ -2,7 +2,7 @@
 Vision-Centric BEV Perception: A Survey
 
 [comment]: <> (<p align="center"> <img src="./taxonomy_bev.png" width="95%"> </p>)
-![](BEV_Survey/taxonomy_bev.png)
+![](BEV_Survey/taxonomy_bev.PNG)
 
 ## Introduction
 
